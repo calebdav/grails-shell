@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta name="layout" content="main"/>
-        <title>Grails Shell</title>
+        <title>Champion CRUD Demo</title>
     </head>
     <body>
         <div class="row">
